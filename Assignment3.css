@@ -1,0 +1,40 @@
+.table2{
+    border-collapse: collapse;
+    
+    
+   
+}
+.table2 td{
+    border: 1px solid black;
+    text-align: center;
+    padding:10px 10px;
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+
+
+}
+.table2 th{
+
+text-align: center;
+padding:9px 9px;
+ color:black;
+font-family:Arial, Helvetica, sans-serif;
+background-color:#ddd;
+}
+.colon{
+    padding:10px 10px;
+}
+.table1 th{
+color:black;
+font-family:Arial, Helvetica, sans-serif;
+background-color:#ddd;
+
+}
+.table1 td{
+    color:black;
+    font-family:sans-serif;
+   
+}
+.table1 img{
+   margin-top:-700px;
+}
